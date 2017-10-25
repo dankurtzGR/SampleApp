@@ -3,3 +3,14 @@
 ################################################################################
 
 /ConsoleAppBusinessLogic/bin/Debug/netcoreapp2.0
+/.vs
+/ConsoleAppBusinessLogic/obj
+/ConsoleAppUnitTest/bin/Debug/netcoreapp2.0
+/ConsoleAppUnitTest/obj
+/DanKurtzConsoleApp/bin/Debug/netcoreapp2.0
+/DanKurtzConsoleApp/obj
+/DanKurtzWebApi/bin
+/DanKurtzWebApi/obj
+/packages
+/WebApiCommon/bin/Debug/netcoreapp2.0
+/WebApiCommon/obj

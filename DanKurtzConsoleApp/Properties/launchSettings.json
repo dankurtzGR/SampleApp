@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DanKurtzConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "EnvironmentVar": "Development"
+      }
+    }
+  }
+}
